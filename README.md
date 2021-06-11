@@ -1,5 +1,5 @@
-## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-1)
-### [Part 1](https://github.com/AminAlAit/VEISHEA-riots-1)
+## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-1/blob/main/notebook.ipynb)
+### [Part 1](https://github.com/AminAlAit/VEISHEA-riots-1/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
